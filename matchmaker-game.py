@@ -23,7 +23,7 @@ def show_symbol(x,y):
         first = True
 
 win = Tk()
-win.title('Matchmaker')
+win.title('Matchmaker @ra1zo')
 win.resizable(width=False , height=False)
 first = True
 previousx = 0
